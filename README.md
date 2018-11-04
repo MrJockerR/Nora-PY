@@ -10,6 +10,6 @@
 
 <h2>Aquivos:</h2>
   <div>
-    <h5>NoraPy.py</h5>
-
+    <h5>Nora.py</h5>
+    <h5>db.sqlite3</h5>
   </div>
