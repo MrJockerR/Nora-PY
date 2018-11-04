@@ -7,3 +7,9 @@
   pip install SpeechRecognition<br>
   pip install pyttsx3<br>
   pip install pypiwin32<br>
+
+<h2>Aquivos:</h2>
+  <div>
+    <h5>NoraPy.py</h5>
+
+  </div>
